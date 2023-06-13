@@ -2,10 +2,15 @@
 ## Description
 The Smartwyre Rebate Calculation Console Application allows users to calculate rebates based on product and rebate details. This user manual provides step-by-step instructions for using the application effectively.
 
+![Screenshot 2023-06-13 190513](https://github.com/Hafizahmed2/SmartWyreTest/assets/107572687/a1d8d890-bf09-463c-bb38-b89f37118ee6)
+
+![Screenshot 2023-06-13 190807](https://github.com/Hafizahmed2/SmartWyreTest/assets/107572687/2f8c721f-c915-4583-88d3-c223dc5840a1)
+
+![Screenshot 2023-06-13 190930](https://github.com/Hafizahmed2/SmartWyreTest/assets/107572687/02acc25e-cac9-4597-810b-acff6582be2b)
+
 ## Prerequisites
 1. dotnet core 7 (6 probably works fine)
 2. Install SQL Server
-
 
 ## Project Overview
 
